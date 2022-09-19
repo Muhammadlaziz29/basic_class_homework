@@ -5,5 +5,5 @@ class Person {
     
 }
 void main() {
-    Mobile y = Mobile();
+    print(Mobile());
 }
