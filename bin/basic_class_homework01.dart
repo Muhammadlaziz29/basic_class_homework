@@ -5,5 +5,5 @@ class Person {
     
 }
 void main() {
-    print(Person());
+    
 }
