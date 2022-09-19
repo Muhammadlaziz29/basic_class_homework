@@ -1,5 +1,9 @@
 /*
 Create a "Person" class
 */
-
-void main() {}
+class Person {
+    
+}
+void main() {
+    Mobile x = Mobile();
+}
