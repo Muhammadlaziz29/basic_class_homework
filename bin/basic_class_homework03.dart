@@ -5,5 +5,10 @@ Create a "Person" class.
 Create an attribute "name" in the "Person" class.
 create an object named "person" whose name is "Ali"
 */
-
-void main() {}
+class Person {
+    String name = 'Ali';
+}
+void main() {
+    Person x = Person();
+    print(x.name);
+}
